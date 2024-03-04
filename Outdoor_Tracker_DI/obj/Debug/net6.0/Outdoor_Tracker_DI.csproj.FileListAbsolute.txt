@@ -1,0 +1,11 @@
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\bin\Debug\net6.0\Outdoor_Tracker_DI.deps.json
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\bin\Debug\net6.0\Outdoor_Tracker_DI.dll
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\bin\Debug\net6.0\Outdoor_Tracker_DI.pdb
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.dll
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\refint\Outdoor_Tracker_DI.dll
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\Outdoor_Tracker_DI.pdb
+C:\Users\Bruker\source\repos\Outdoor_Tracker_DI\obj\Debug\net6.0\ref\Outdoor_Tracker_DI.dll
